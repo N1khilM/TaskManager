@@ -1,5 +1,3 @@
-//src/Components/Filterbar.jsx
-
 import React from "react";
 import { useTaskContext } from "../Context/TaskContext";
 

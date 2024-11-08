@@ -1,5 +1,3 @@
-//src/Components/TaskList.jsx
-
 import React, { useState } from "react";
 import { useTaskContext } from "../Context/TaskContext";
 import DeleteModal from "../Modals/DeleteModal";

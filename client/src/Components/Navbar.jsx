@@ -1,5 +1,3 @@
-//src/Components/Navbar.jsx
-
 import React, { useState } from "react";
 import AddTaskModal from "../Modals/AddTaskModal";
 
